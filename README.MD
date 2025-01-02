@@ -1,7 +1,3 @@
-Para validar o repositório [https://github.com/felipeisraelsantos/typescript](https://github.com/felipeisraelsantos/typescript), observei que ele contém diversos diretórios relacionados a conceitos do TypeScript, como `POO`, `decorators`, `generics`, `introducao-typescript` e `tipos-typescript`. No entanto, não há um arquivo `README.md` ou instruções de instalação presentes no repositório.
-
-Para criar um guia de instalação do Node.js e do TypeScript que possa ser utilizado em todos os projetos, siga os passos abaixo:
-
 **1. Instalar o Node.js:**
 
 - Faça o download do instalador adequado para o seu sistema operacional a partir do site oficial do Node.js: [https://nodejs.org/](https://nodejs.org/).
